@@ -4,7 +4,12 @@
 [![Watch the video](aa.png)](https://andreianghi.ddns.net/Assets/img/progetti/1724.webm)
 
 ## Description
-This project is developed in C using the MLX library.
+This project is developed in C using the MLX library on macOS.
+
+## Getting Started
+```
+make test
+```
 
 ## Contact Me
 - [Portfolio](https://andreianghi.ddns.net)
